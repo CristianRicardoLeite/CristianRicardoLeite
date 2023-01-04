@@ -21,8 +21,6 @@ im Cristian, work with fullstack development, portuguese and spanish native spea
 <br>   
 <br>  
 
-
-![Cristian stats](https://github-readme-stats.vercel.app/api?username=CristianRicardoLeite&show_icons=true&theme=tokyonight)
 <br>
 <br>
 :bowtie: Se tiver qualquer duvida entre em contato por (doubts) 👇:
