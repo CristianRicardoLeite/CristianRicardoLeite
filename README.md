@@ -1,13 +1,4 @@
-Olá Devs!!  👌
-<br>Hola!!  👌      
 Hello everyone!! 👌
-<br>
-<br>
-<br>
-Eu sou Cristian Ricardo Leite, Trabalho com programação fullstack, falo fluentemente português, espanhol fluênte(vivi em Buenos Aires) e inglês moderado, tecnologias com experiência:
-<br>
-<br>
-Yo soy Cristian, trabajo con programacion fullstack, hablo con fluidez el portugues, espanhol (acento portenho, vivi en buenos aires) e inglés moderado. Tecnologias:
 <br>
 <br>
 im Cristian, work with fullstack development, portuguese and spanish native speaker and speak moderate english. My technologies:
